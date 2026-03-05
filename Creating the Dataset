@@ -1,0 +1,19 @@
+data = {
+    "State": [
+        "Maharashtra", "Uttar Pradesh", "Bihar", "West Bengal",
+        "Madhya Pradesh", "Tamil Nadu", "Rajasthan",
+        "Karnataka", "Gujarat", "Andhra Pradesh"
+    ],
+
+    "Area (sq km)": [
+        307713, 243286, 94163, 88752,
+        308245, 130058, 342239,
+        191791, 196024, 162975
+    ],
+
+    "Population": [
+        124000000, 240000000, 130000000, 100000000,
+        85000000, 78000000, 81000000,
+        70000000, 68000000, 53000000
+    ]
+}
