@@ -1,0 +1,8 @@
+
+plt.figure(figsize=(8,6))
+plt.scatter(df["Area (sq km)"], df["Population"])
+plt.xlabel("Area (sq km)")
+plt.ylabel("Population")
+plt.title("Scatter Plot: Area vs Population")
+plt.grid(True)
+plt.show()
