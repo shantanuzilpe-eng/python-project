@@ -1,0 +1,12 @@
+print("\n==============================")
+print("   STATE DEMOGRAPHIC TABLE")
+print("==============================\n")
+
+print(df.to_string(index=False))
+
+print("\n--------------------------------")
+print("State with Highest Population Density:")
+print("--------------------------------")
+print(f"{highest_density['State']} "
+      f"({highest_density['Population Density (per sq km)']} per sq km)")
+print("--------------------------------\n")
